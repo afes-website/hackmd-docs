@@ -173,5 +173,8 @@ Cluster というバーチャル空間でイベントを開くことができる
 
 ## 6. ウェブサイト班連絡先
 
-- [afes.info お問い合わせフォーム](https://afes.info/contact/)
-- [contact@afes.info](mailto:contact@afes.info)
+<!-- - [afes.info お問い合わせフォーム](https://afes.info/contact/)
+- [contact@afes.info](mailto:contact@afes.info) -->
+
+- ~~[afes.info お問い合わせフォーム](#)~~
+- ~~[contact@afes.info](#)~~
